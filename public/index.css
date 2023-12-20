@@ -1,0 +1,22 @@
+:root {
+    --primary-color: teal;
+    --default: beige;
+}
+
+
+body {
+    text-align: center;
+    color: var(--default);
+    background-image: url('bkg.png'); /* Specify the path to your image */
+    background-size: cover; /* Scale the image to cover the entire background */
+    background-repeat: no-repeat; /* Prevent image from repeating */
+    background-attachment: fixed;
+}
+
+#message-list {
+    margin-bottom: 30px;
+}
+
+.message {
+    margin-bottom: 5px;
+}
