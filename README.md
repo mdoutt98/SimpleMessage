@@ -1,4 +1,5 @@
 # SimpleMessage 
+<img src="SimpleMessage.png" width="262" height="198">
 
 Simple Message Board is a minimalistic web application that allows users to post messages to a public board. The application is built with Node.js on the backend, uses Express for routing, and stores messages in a text file for persistence.
 
