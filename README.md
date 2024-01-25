@@ -6,7 +6,7 @@ Simple Message Board is a minimalistic web application that allows users to post
 
 - Post messages to a public message board.
 - View all messages posted by others.
-- Clear all messages from the board (admin functionality).
+- Clear all messages from the board.
 
 ## Prerequisites
 
